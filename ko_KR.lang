@@ -91,7 +91,7 @@ champion.mod.spine=의지 있는
 champion.mod.armor=무장한
 champion.mod.mighty=강한
 champion.mod.grim=험상궂은
-champion.mod.warded=Warded
+champion.mod.warded=마법으로 보강된
 champion.mod.warp=뒤틀린
 champion.mod.undying=불멸의
 champion.mod.fiery=화염의
@@ -101,9 +101,9 @@ champion.mod.vampiric=뱀파이어
 champion.mod.infested=감염된
 #
 tc.boss.crimson=크림슨 컬트의 도착을 예견하는 루비 포탈이 주변에 열렸습니다. 빨리 포탈을 닫으세요!
-tc.boss.golem=A lone sentinel stands frozen in this room, but as energy starts crackling through its ancient frame you know it will not stay frozen for long.
-tc.boss.warden=Black energy bubbles on the distant pedestal. Something is coming...
-tc.boss.taint=An organic rustling comes from the room beyond. The sound of something wrong... something growing...
+tc.boss.golem=보초 골렘이 외롭게 얼어버려 움직이지 못하지만, 저 고대의 몸체에 에너지가 흐르기 시작하면 그것도 금방 녹아버릴 것이라고 당신은 알고 있습니다.
+tc.boss.warden=검은 에너지가 멀리 떨어진 받침대에서 부글거리며 올라옵니다. 무언가가 오고 있습니다...
+tc.boss.taint=무언가 살아있는 생물의 기척이 머나먼 방 안에서 느껴집니다. 절대로 있어서는 안되는... 소리...
 #
 # Blocks
 tile.blockAiry.0.name=오라 노드
@@ -528,7 +528,7 @@ golemthreat.1.text=흠, 내가 뭔가를 옮기길 원하는 거야?
 golemthreat.2.text=크하 하 하 하 하 하 하 하 하 하 하 하 하 하 하 하 하 하 하!
 golemthreat.3.text=걱정하지 말라고, 아무짓도 안하지 않을테니까...
 golemthreat.4.text=낮잠이나 좀 자는 건 어때? 정말 졸려보이는군. 아주 많이 말이야.
-golemthreat.5.text=fm'fldpdml rmdml wlqdptj wnrdms zmxnfgnrk RnaRnau rlekflsek
+golemthreat.5.text=fm'fldpdml rmdml wlqdptj wnrdms zmxnfgnrk RnaRnau rlekflsek!
 golemthreat.6.text=*존중*을 찾을 수 없음. 기본 값 *증오*로 설정 중..
 golemthreat.7.text=난 네녀석이 정말 싫어.
 golemthreat.8.text=나가 죽어, 멍청이같은 녀석!
@@ -1597,8 +1597,8 @@ tc.research_page.CRIMSON.1=이 책의 대부분은 알 수 없는 기호들과 �
 #
 tc.research_name.OCULUS=개안 의식
 tc.research_text.OCULUS=나는 봤어! 나는 봤다고!
-tc.research_page.OCULUS.1=It was all so simple - you are amazed the Crimson Cultists have never discovered this.<BR>To perform the ritual you simply need to place four Eldritch Eyes on the specially marked keystone found at one of the strange altars where you first discovered the cult. The sinister node above the keystone must remain intact.<BR>Once this is done it is a simple matter of infusing a large amount of primal vis into the keystone with a wand - 100 units of each should be sufficient.
-tc.research_page.OCULUS.2=If you have done everything right the ritual should be complete and the so called "Eye" would be opened.<BR>Of course you have no idea what that means. No matter, only fools fear the unknown! 
+tc.research_page.OCULUS.1=해답은 생각보다 간단한 것이였습니다. 크림슨 컬트가 이것을 발견하지 못한것이 참으로 믿어지지 않는군요.<BR>의식을 시작하려면, 4개의 이계의 눈들을 크림슨 컬트가 지키고 있는 제단의 이상한 돌들에 올려야 합니다. 올리기 전 사악한 노드가 제데로 있는지 확인하세요.<BR>모든 이계의 눈들이 제자리를 찾았다면, 이제 엄청난 양의 비스를 집어 넣어야 합니다. 그래요, 종류별로 100 정도가 딱일거에요.
+tc.research_page.OCULUS.2=모든것을 완벽하게 해냈다면, 당신은 "개안" 할것입니다.<BR>물론 당신은 그것이 무슨 의미인지 모릅니다. 상관없죠, 바보들만이 미지를 두려워 하니까요!
 #
 tc.research_name.ESSENTIARESERVOIR=고급 에센시아 저장소
 tc.research_text.ESSENTIARESERVOIR=취급주의
